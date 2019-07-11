@@ -11,7 +11,7 @@
 
 ## Model
 
-[s3fd_convert.pth](https://github.com/clcarwin/SFD_pytorch/releases/tag/v0.1 "With a Title")
+[s3fd_convert.pth](https://github.com/clcarwin/SFD_pytorch/releases/download/v0.1/s3fd_convert.7z "With a Title")
 
 来自 https://github.com/clcarwin/SFD_pytorch
 
